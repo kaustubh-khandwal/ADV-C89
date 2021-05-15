@@ -73,14 +73,10 @@ form{
 }
 .btn:hover, .btn:focus{
 	background-color: #008080;
-	color:#fff;
+	color:white;
+	
 }
-.main_div{
-	background-color:red;
-}
-html{
-	background-color: red;
-}
+
 body{
-	background-color: red;
+	background-image: url("bg1.jpg");
 }
