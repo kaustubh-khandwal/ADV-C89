@@ -80,9 +80,8 @@ form{
 body{
 	background-image: url("bg1.jpg");
 }
-body
-{
-	background:cyan;
+#body_game{
+	background-color: cyan;
 }
 
 	.login_div1 , .login_div2
